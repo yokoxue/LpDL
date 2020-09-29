@@ -34,5 +34,4 @@ Run the matlab files in the "Synthetic data" folder
 ## 3.0 Run the experiment for MNIST data
 Run the matlab files in the "lp-mnist" folder
 
-## 4.0 Acknowledgement
-Thanks 
+
