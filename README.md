@@ -25,13 +25,14 @@ This is an open source implementation for UAI 2020 submission Complete Dictionar
 + **Matlab**
 
 
-+ **MINST Dataset**
++ **MNIST Dataset**
 MNIST data files
 File format as specified on http://yann.lecun.com/exdb/mnist/
 
 ## 2.0 Run the experiment for synthetic data
-## 3.0 Run the experiment for MINST data
-
+Run the matlab files in the "Synthetic data" folder
+## 3.0 Run the experiment for MNIST data
+Run the matlab files in the "lp-mnist" folder
 
 ## 4.0 Acknowledgement
 Thanks 
