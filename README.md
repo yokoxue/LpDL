@@ -1,6 +1,6 @@
 # LpDL
 
-This is an open source implementation for UAI 2020 submission Complete Dictionary Learning via  <i>ℓ</i><sub>p</sub>-norm Maximization'', Yifei Shen∗, Ye Xue∗, Jun Zhang, Khaled B. Letaief, Vincent Lau.  [pdf](http://proceedings.mlr.press/v124/shen20a/shen20a.pdf).
+This is an open source implementation for UAI 2020 submission "Complete Dictionary Learning via  <i>ℓ</i><sub>p</sub>-norm Maximization'', Yifei Shen∗, Ye Xue∗, Jun Zhang, Khaled B. Letaief, Vincent Lau.  [pdf](http://proceedings.mlr.press/v124/shen20a/shen20a.pdf).
 
 If you find the project useful for your research, please cite:
 
