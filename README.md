@@ -3,7 +3,7 @@
 This is an open-source implementation for our series work on  dictionary learning.
 
 
-The primary work is the UAI 2020 submission "Complete Dictionary Learning via  <i>ℓ</i><sub>p</sub>-norm Maximization'', Yifei Shen∗, Ye Xue∗, Jun Zhang, Khaled B. Letaief, Vincent Lau.  [[pdf]](http://proceedings.mlr.press/v124/shen20a/shen20a.pdf). The main theoretical results are summarized in this work.
+The primary work is the UAI 2020 submission "Complete Dictionary Learning via  <i>ℓ</i><sub>p</sub>-norm Maximization'', Yifei Shen∗, Ye Xue∗, Jun Zhang, Khaled B. Letaief, Vincent Lau.  [[pdf]](http://proceedings.mlr.press/v124/shen20a/shen20a.pdf) The main theoretical results are summarized in this work.
 
 If you find it is useful, please cite:
 
@@ -41,7 +41,7 @@ Run the Matlab files in the "Synthetic data" folder
 Run the Matlab files in the "lp-mnist" folder
 
 ## 4.0 Application for Blind Data Detection 
-Run the code in the "L3_BlindDataDetection" folder, which provides the elementary code for algorithmic verification.
+Run the code in the "L3_BlindDataDetection" folder, which provides the elementary code for algorithmic verification for the  paper "Blind Data Detection in Massive MIMO via ℓ3-norm Maximization over the Stiefel Manifold," Y. Xue, Y. Shen, V. Lau, J. Zhang and K. B. Letaief, in IEEE Transactions on Wireless Communications.[[pdf]](https://ieeexplore.ieee.org/document/9246702)
 If you find this application is helpful, please cite
 
 ```
