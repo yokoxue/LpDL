@@ -3,7 +3,7 @@
 This is an open-source implementation for our series work on  dictionary learning.
 
 
-The primary work is the UAI 2020 submission "Complete Dictionary Learning via  <i>ℓ</i><sub>p</sub>-norm Maximization'', Yifei Shen∗, Ye Xue∗, Jun Zhang, Khaled B. Letaief, Vincent Lau.  [[pdf]](http://proceedings.mlr.press/v124/shen20a/shen20a.pdf) The main theoretical results are summarized in this work.
+The primary work is the UAI 2020 submission "Complete Dictionary Learning via  <i>ℓ</i><sub>p</sub>-norm Maximization'', Yifei Shen∗, Ye Xue∗, Jun Zhang, Khaled B. Letaief, Vincent Lau.  [[pdf]](http://proceedings.mlr.press/v124/shen20a/shen20a-supp.pdf) The main theoretical results are summarized in this work.
 
 If you find it is useful, please cite:
 
